@@ -2,122 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+We are an organization of young engineers and pipo students who are committed to promoting the professions of data science and artificial intelligence among students of the National School of Engineers of Yaoundé.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+-----
 
 
-### Definition lists can be used with HTML syntax.
+## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 
+The planning of the activities of the organization. It is updated as regularly as possible.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## [Launching Slides 22/23](https://docs.google.com/presentation/d/10NXzgS7sNH3j0OdGSwyQwu9H4j0mKYxZGDl3gWDOY8U/edit?usp=sharing) 
+The slides presenting the activities we are launching this year and presented on October 22, 2022.
+
+## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
+This folder contains meeting reports and presentations made so far. It is only available to members of the organization.
+
+
+## [Public Suggestion Box](https://forms.gle/Gu4EgWbp8RtXCPgf8)
+
+Anonymous suggestion box allows for new perspectives and ways of thinking, give a voice to those who feel disenfranchised, promote active participation.

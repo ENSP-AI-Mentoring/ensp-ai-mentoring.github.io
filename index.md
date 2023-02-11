@@ -6,20 +6,23 @@ We are an organization of young engineers and students from of the [National Adv
 
 -----
 
+## [Launching Slides 22/23](https://docs.google.com/presentation/d/10NXzgS7sNH3j0OdGSwyQwu9H4j0mKYxZGDl3gWDOY8U/edit?usp=sharing) 
+The slides presenting the activities we are launching this year and presented on October 22, 2022.
+
 ## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 
 The planning of the activities of the organization. It is updated as regularly as possible.
 
 
-## [Launching Slides 22/23](https://docs.google.com/presentation/d/10NXzgS7sNH3j0OdGSwyQwu9H4j0mKYxZGDl3gWDOY8U/edit?usp=sharing) 
-The slides presenting the activities we are launching this year and presented on October 22, 2022.
+## [AI Projects](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit#gid=359630732) 
+This is a presentation of ongoing/done projects. The code (if available) is found on [github repo](https://github.com/ENSP-AI-Mentoring)
+
 
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
-This folder contains meeting reports and presentations made so far. It is only available to members of the organization.
-
+This drive contains documents/reports and presentations publicly available about our activities.
 
 ## [Public Suggestion Box](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
-Anonymous suggestion box allows for new perspectives and ways of thinking, give a voice to those who feel disenfranchised, promote active participation.
+This anonymous suggestion box provides a platform for diverse perspectives and fosters creativity, empowers those who feel unheard, and encourages active involvement and engagement in the decision-making process.
 
 ## Related Initiatives
 

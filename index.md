@@ -20,9 +20,9 @@ Presentation/code of ongoing/done projects. Check out the [github repo](https://
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
 This drive contains documents/reports and ressources available about our activities.
 
-## [Public Suggestion Box](https://forms.gle/Gu4EgWbp8RtXCPgf8)
+## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
-The anonymous suggestion box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. We look forward to hear your voice !
+The anonymous suggestion box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice !
 
 
 ## Related Initiatives

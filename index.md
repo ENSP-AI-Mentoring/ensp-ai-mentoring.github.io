@@ -47,6 +47,7 @@ Our members work in strategic industries and companies.
 <img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png" title="Societe Generale"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
     <img src="https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1648026608"  title="BNP Paribas" alt="BNP Paribas" width="100px"  style="max-width: 200px; max-height: 100px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1580px-PricewaterhouseCoopers_Logo.svg.png"  title="PWC" alt="PWC" width="100px"  style="max-width: 200px; max-height: 100px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1600px-IBM_logo.svg.png"  title="IBM" alt="PWC" width="100px"  style="max-width: 200px; max-height: 100px;">
    
   <!-- Add more logos here -->
 </div>

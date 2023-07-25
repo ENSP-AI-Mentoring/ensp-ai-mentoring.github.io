@@ -13,7 +13,7 @@ The slides presenting the activities we are launching this year and presented on
 The planning of the activities of the organization. It is updated as regularly as possible.
 
 
-## [AI Projects] <span style="color:gray;">COMING SOON</span>
+## AI Projects <span style="color:gray;">COMING SOON</span>
 This is a presentation of ongoing/done projects. The code (if available) is found on [github repo](https://github.com/ENSP-AI-Mentoring)
 
 
@@ -29,3 +29,12 @@ This anonymous suggestion box provides a platform for diverse perspectives and f
 * [Machine Learning Project Competition]()
     > [Facebook post](https://www.facebook.com/blackinai/posts/congratulations-to-james-assiene-for-organizing-the-second-edition-of-the-machin/1043947346361607/)
 * [Indaba X Cameroon](https://indabaxcameroon.github.io/)
+
+
+Our members work in strategic industries and companies.
+<div style="text-align: center;">
+  <img src="https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/64528324f3137361efa56a2f_google_deepmind.jpg" alt="DeepMind" width="100px">
+  <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" alt="Dassault Systemes" width="100px">
+  <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" alt="Ivalua" width="100px">
+  <!-- Add more logos here -->
+</div>

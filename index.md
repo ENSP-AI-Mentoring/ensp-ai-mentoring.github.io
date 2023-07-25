@@ -18,11 +18,12 @@ This is a presentation of ongoing/done projects. The code (if available) is foun
 
 
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
-This drive contains documents/reports and presentations publicly available about our activities.
+This drive contains documents/reports and ressources available about our activities.
 
 ## [Public Suggestion Box](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
-This anonymous suggestion box provides a platform for diverse perspectives and fosters creativity, empowers those who feel unheard, and encourages active involvement and engagement in the decision-making process.
+The anonymous suggestion box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. We look forward to hear your voice !
+
 
 ## Related Initiatives
 * [Pipos in AI](https://www.piposinai.com/)

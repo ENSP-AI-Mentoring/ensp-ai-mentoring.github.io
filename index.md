@@ -41,7 +41,6 @@ Our members work in strategic industries and companies.
   <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
   <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
   <img src="https://c.woopic.com/logo-orange.png"  alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
-<img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png"  alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
 <img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
     <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hfxxmwwot2gqcj4wqubs"  alt="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
    

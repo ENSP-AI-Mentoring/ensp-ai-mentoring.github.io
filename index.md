@@ -28,4 +28,4 @@ This anonymous suggestion box provides a platform for diverse perspectives and f
 * [Pipos in AI](https://www.piposinai.com/)
 * [Machine Learning Project Competition]()
     > [Facebook post](https://www.facebook.com/blackinai/posts/congratulations-to-james-assiene-for-organizing-the-second-edition-of-the-machin/1043947346361607/)
-* [Indaba X ENSPY](https://indabaxcameroon.github.io/)
+* [Indaba X Cameroon](https://indabaxcameroon.github.io/)

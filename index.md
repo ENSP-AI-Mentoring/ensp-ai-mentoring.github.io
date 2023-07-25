@@ -14,7 +14,7 @@ The planning of the activities of the organization. It is updated as regularly a
 
 
 ## AI Projects <span style="color:gray;">COMING SOON</span>
-This is a presentation of ongoing/done projects. The code (if available) is found on [github repo](https://github.com/ENSP-AI-Mentoring)
+Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
 
 
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)

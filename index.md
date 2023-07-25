@@ -25,8 +25,7 @@ This drive contains documents/reports and presentations publicly available about
 This anonymous suggestion box provides a platform for diverse perspectives and fosters creativity, empowers those who feel unheard, and encourages active involvement and engagement in the decision-making process.
 
 ## Related Initiatives
-
 * [Pipos in AI](https://www.piposinai.com/)
 * [Machine Learning Project Competition]()
     > [Facebook post](https://www.facebook.com/blackinai/posts/congratulations-to-james-assiene-for-organizing-the-second-edition-of-the-machin/1043947346361607/)
-    > 
+* [Indaba X ENSPY](https://indabaxcameroon.github.io/)

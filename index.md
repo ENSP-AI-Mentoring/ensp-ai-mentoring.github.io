@@ -37,15 +37,16 @@ The anonymous suggestion box fosters diverse perspectives, creativity, empowerme
 Our members work in strategic industries and companies.
 
 <div style="text-align: center;">
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hfxxmwwot2gqcj4wqubs"  alt="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
-  <img src="https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/64528324f3137361efa56a2f_google_deepmind.jpg" alt="DeepMind" width="100px" style="max-width: 200px; max-height: 100px;">
-  <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
-  <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
-  <img src="https://c.woopic.com/logo-orange.png"  alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
-        <img src="https://mb.cision.com/Public/21505/3626239/863716a5eac14069_800x800ar.png"  alt="Moobifun" width="100px"  style="max-width: 200px; max-height: 100px;">
-<img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
-    <img src="https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1648026608"  alt="BNP Paribas" width="100px"  style="max-width: 200px; max-height: 100px;">
-    
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hfxxmwwot2gqcj4wqubs"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
+  <img src="https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/64528324f3137361efa56a2f_google_deepmind.jpg" title="DeepMind" 
+ alt="DeepMind" width="100px" style="max-width: 200px; max-height: 100px;">
+  <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" title="Dassault Systemes" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
+  <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" title="Ivalua" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
+  <img src="https://c.woopic.com/logo-orange.png"  title="Orange CM" alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
+        <img src="https://mb.cision.com/Public/21505/3626239/863716a5eac14069_800x800ar.png"  title="Moobifun" alt="Moobifun" width="100px"  style="max-width: 200px; max-height: 100px;">
+<img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png" title="Societe Generale"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
+    <img src="https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1648026608"  title="BNP Paribas" alt="BNP Paribas" width="100px"  style="max-width: 200px; max-height: 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1580px-PricewaterhouseCoopers_Logo.svg.png"  title="PWC" alt="PWC" width="100px"  style="max-width: 200px; max-height: 100px;">
    
   <!-- Add more logos here -->
 </div>

@@ -13,7 +13,7 @@ The slides presenting the activities we are launching this year and presented on
 The planning of the activities of the organization. It is updated as regularly as possible.
 
 
-## [AI Projects](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit#gid=359630732) 
+## [AI Projects] <span style="color:gray;">COMING SOON</span>
 This is a presentation of ongoing/done projects. The code (if available) is found on [github repo](https://github.com/ENSP-AI-Mentoring)
 
 

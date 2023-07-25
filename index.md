@@ -44,7 +44,7 @@ Our members work in strategic industries and companies.
   <img src="https://c.woopic.com/logo-orange.png"  alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
         <img src="https://mb.cision.com/Public/21505/3626239/863716a5eac14069_800x800ar.png"  alt="Moobifun" width="100px"  style="max-width: 200px; max-height: 100px;">
 <img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
-
+    <img src="https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1648026608"  alt="BNP Paribas" width="100px"  style="max-width: 200px; max-height: 100px;">
     
    
   <!-- Add more logos here -->

@@ -39,5 +39,6 @@ Our members work in strategic industries and companies.
   <img src="https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/64528324f3137361efa56a2f_google_deepmind.jpg" alt="DeepMind" width="100px">
   <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" alt="Dassault Systemes" width="100px">
   <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" alt="Ivalua" width="100px">
+  <img src="https://www.orange.cm/2/menu_resources/uploads/logo_1.jpg"  alt="Orange CM" width="100px">
   <!-- Add more logos here -->
 </div>

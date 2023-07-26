@@ -2,7 +2,7 @@
 layout: default
 ---
 
-We are an organization of engineers and students from of the [National Advanced School of Engineering of Yaoundé](https://polytechnique.cm/) who are committed to promoting the professions of data science, big data and artificial intelligence to solve meaningful problems.
+We are an organization of engineers and students from of the [National Advanced School of Engineering of Yaoundé](https://polytechnique.cm/) who are committed to promoting data science, big data and artificial intelligence to solve meaningful problems.
 
 -----
 

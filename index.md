@@ -27,7 +27,7 @@ The anonymous suggestion box fosters diverse perspectives, creativity, empowerme
 
 ## Related Initiatives
 * [Pipos in AI](https://www.piposinai.com/)
-* [Machine Learning Project Competition]()
+* Machine Learning Project Competition
     > [Facebook post](https://www.facebook.com/blackinai/posts/congratulations-to-james-assiene-for-organizing-the-second-edition-of-the-machin/1043947346361607/)
 * [Indaba X Cameroon](https://indabaxcameroon.github.io/)
 

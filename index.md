@@ -12,22 +12,18 @@ The slides presenting the activities we are launching this year and presented on
 ## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 
 The planning of the activities of the organization. It is updated as regularly as possible.
 
-
-## AI Projects <span style="color:gray;">COMING SOON</span>
-Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
-
-
-## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
-This drive contains documents/reports and ressources available about our activities.
-
-
 ## [How to join](https://www.youtube.com/watch?v=2DmFFS0dqQc&ab_channel=JohnSpencer)
 We prioritize the engagement and collaboration of our members to ensure a thoughtful and interactive experience. You'll receive a challenge, and upon completion, you'll be warmly invited to become a part of our community.
-
 
 ## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
 The anonymous suggestion box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice !
+
+## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
+This drive contains documents/reports and ressources available about our activities.
+
+## AI Projects <span style="color:gray;">COMING SOON</span>
+Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
 
 
 ## Related Initiatives

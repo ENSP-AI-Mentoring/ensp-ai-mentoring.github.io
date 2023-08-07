@@ -20,6 +20,11 @@ Presentation/code of ongoing/done projects. Check out the [github repo](https://
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
 This drive contains documents/reports and ressources available about our activities.
 
+
+## [How to join](https://www.youtube.com/watch?v=2DmFFS0dqQc&ab_channel=JohnSpencer)
+We prioritize the engagement and collaboration of our members to ensure a thoughtful and interactive experience. You'll receive a challenge, and upon completion, you'll be warmly invited to become a part of our community.
+
+
 ## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
 The anonymous suggestion box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice !

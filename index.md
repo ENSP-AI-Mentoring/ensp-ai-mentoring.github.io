@@ -40,7 +40,7 @@ Our members work in strategic industries and companies/labs.
 <div style="text-align: center;">
     <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hfxxmwwot2gqcj4wqubs"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
   <img src="https://logowik.com/content/uploads/images/google-deepmind8631.logowik.com.webp" title="DeepMind" 
- alt="DeepMind" width="100px" style="max-width: 200px; max-height: 100px;">
+ alt="DeepMind" width="120px" style="max-width: 200px; max-height: 120px;">
   <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" title="Dassault Systemes" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
   <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" title="Ivalua" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
     <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w2wzzqmn7p27udwbhe1b"  title="Mila" alt="Mila" width="100px"  style="max-width: 200px; max-height: 100px;">

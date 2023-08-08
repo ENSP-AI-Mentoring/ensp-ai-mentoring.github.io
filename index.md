@@ -35,7 +35,7 @@ Presentation/code of ongoing/done projects. Check out the [github repo](https://
 
 ## Members
 
-Our members work in strategic industries and companies.
+Our members work in strategic industries and companies/labs.
 
 <div style="text-align: center;">
     <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hfxxmwwot2gqcj4wqubs"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">

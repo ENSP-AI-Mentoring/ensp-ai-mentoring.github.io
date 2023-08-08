@@ -43,6 +43,7 @@ Our members work in strategic industries and companies.
  alt="DeepMind" width="100px" style="max-width: 200px; max-height: 100px;">
   <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" title="Dassault Systemes" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
   <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" title="Ivalua" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
+    <img src="https://mila.quebec/wp-content/uploads/2020/06/og-image-v2.jpg"  title="Mila" alt="Mila" width="100px"  style="max-width: 200px; max-height: 100px;">
   <img src="https://c.woopic.com/logo-orange.png"  title="Orange CM" alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
         <img src="https://mb.cision.com/Public/21505/3626239/863716a5eac14069_800x800ar.png"  title="Moobifun" alt="Moobifun" width="100px"  style="max-width: 200px; max-height: 100px;">
 <img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png" title="Societe Generale"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">

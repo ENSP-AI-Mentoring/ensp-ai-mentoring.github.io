@@ -13,7 +13,7 @@ The slides presenting the activities we are launching this year and presented on
 The planning of the activities of the organization. It is updated as regularly as possible.
 
 ## [How to join](https://www.youtube.com/watch?v=2DmFFS0dqQc&ab_channel=JohnSpencer)
-We prioritize the engagement and collaboration of our members to ensure a thoughtful and interactive experience. You'll receive a challenge and upon completion, you'll be warmly invited to become a part of our community.
+We prioritize the engagement and collaboration of our members to ensure a thoughtful and interactive experience. You'll receive a challenge and upon completion, you'll be warmly invited to become part of our community.
 
 ## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 

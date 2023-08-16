@@ -17,7 +17,7 @@ We prioritize the engagement and collaboration of our members to ensure a though
 
 ## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
-The anonymous box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice !
+The anonymous box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice.
 
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
 This drive contains documents/reports and ressources available about our activities.

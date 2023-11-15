@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "ENSPY AI MENTORING"
+article_title:  "Welcome to Jekyll!"
 author: Fred
 ---
 

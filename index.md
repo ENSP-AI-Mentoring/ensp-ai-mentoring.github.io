@@ -38,18 +38,19 @@ Presentation/code of ongoing/done projects. Check out the [github repo](https://
 Our members work in strategic industries and companies/labs.
 
 <div style="text-align: center;">
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hfxxmwwot2gqcj4wqubs"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
-  <img src="https://logowik.com/content/uploads/images/google-deepmind8631.logowik.com.webp" title="DeepMind" 
+<img src="assets/img/neoxia.avif"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
+    <img src="assets/img/shift.webp"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
+  <img src="assets/img/deepmind.webp" title="DeepMind" 
  alt="DeepMind" width="140px" style="max-width: 240px; max-height: 140px;">
-  <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_blue.svg" title="Dassault Systemes" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
-  <img src="https://www.ivalua.com/wp-content/uploads/2020/10/logo-2020.svg" title="Ivalua" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w2wzzqmn7p27udwbhe1b"  title="Mila" alt="Mila" width="100px"  style="max-width: 200px; max-height: 100px;">
+  <img src="assets/img/3ds.svg" title="Dassault Systemes" alt="Dassault Systemes" width="100px"  style="max-width: 100px; max-height: 100px;">
+  <img src="assets/img/ivalua.svg" title="Ivalua" alt="Ivalua" width="100px" style="max-width: 200px; max-height: 100px;">
+    <img src="assets/img/mila.webp"  title="Mila" alt="Mila" width="100px"  style="max-width: 200px; max-height: 100px;">
   <img src="https://c.woopic.com/logo-orange.png"  title="Orange CM" alt="Orange CM" width="100px"  style="max-width: 200px; max-height: 100px;">
-        <img src="https://mb.cision.com/Public/21505/3626239/863716a5eac14069_800x800ar.png"  title="Moobifun" alt="Moobifun" width="100px"  style="max-width: 200px; max-height: 100px;">
-<img src="https://companieslogo.com/img/orig/GLE.PA-818ce5f3.png" title="Societe Generale"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
-    <img src="https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1648026608"  title="BNP Paribas" alt="BNP Paribas" width="100px"  style="max-width: 200px; max-height: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1580px-PricewaterhouseCoopers_Logo.svg.png"  title="PWC" alt="PWC" width="100px"  style="max-width: 200px; max-height: 100px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1600px-IBM_logo.svg.png"  title="IBM" alt="PWC" width="100px"  style="max-width: 200px; max-height: 100px;">
+        <img src="assets/img/moobifun.png"  title="Moobifun" alt="Moobifun" width="100px"  style="max-width: 200px; max-height: 100px;">
+<img src="assets/img/societe.png" title="Societe Generale"  alt="Societe Generale" width="100px"  style="max-width: 200px; max-height: 100px;">
+    <!-- <img src="https://companieslogo.com/img/orig/BNP.PA-75daacb0.png?t=1648026608"  title="BNP Paribas" alt="BNP Paribas" width="100px"  style="max-width: 200px; max-height: 100px;">-->
+    <img src="assets/img/pwc.png"  title="PWC" alt="PWC" width="100px"  style="max-width: 200px; max-height: 100px;">
+<img src="assets/img/ibm.png"  title="IBM" alt="IBM" width="100px"  style="max-width: 200px; max-height: 100px;">
    
   <!-- Add more logos here -->
 </div>

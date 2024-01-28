@@ -7,7 +7,7 @@ We are an organization of engineers and students from [National Advanced School 
 -----
 
 ## [Launching Slides 2024](https://docs.google.com/presentation/d/1us-JbiBUbHa1EUcBAKsLsyoi6ctkBV-GWhT3xuZC41M/edit?usp=sharing) 
-The slides presenting the activities we are launching this year and presented on October 22, 2022.
+The slides presenting the activities we are launching this year and presented on January 20th, 2024.
 
 ## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 
 The planning of the activities of the organization. It is updated as regularly as possible.

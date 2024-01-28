@@ -6,7 +6,7 @@ We are an organization of engineers and students from [National Advanced School 
 
 -----
 
-## [Launching Slides 22/23](https://docs.google.com/presentation/d/10NXzgS7sNH3j0OdGSwyQwu9H4j0mKYxZGDl3gWDOY8U/edit?usp=sharing) 
+## [Launching Slides 2024](https://docs.google.com/presentation/d/1us-JbiBUbHa1EUcBAKsLsyoi6ctkBV-GWhT3xuZC41M/edit?usp=sharing) 
 The slides presenting the activities we are launching this year and presented on October 22, 2022.
 
 ## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 

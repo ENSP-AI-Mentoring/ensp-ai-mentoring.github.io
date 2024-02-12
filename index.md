@@ -10,7 +10,7 @@ We are an organization of engineers and students from [National Advanced School 
 Our members work in strategic industries and companies/labs.
 
 <div style="text-align: center;">
-<img src="assets/img/neoxia.avif"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
+<img src="assets/img/neoxia.avif"  alt="Shift Technology" title="NEOXIA" width="100px"  style="max-width: 200px; max-height: 100px;">
     <img src="assets/img/shift.webp"  alt="Shift Technology" title="Shift Technology" width="100px"  style="max-width: 200px; max-height: 100px;">
   <img src="assets/img/deepmind.webp" title="DeepMind" 
  alt="DeepMind" width="140px" style="max-width: 240px; max-height: 140px;">

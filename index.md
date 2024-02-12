@@ -6,27 +6,6 @@ We are an organization of engineers and students from [National Advanced School 
 
 -----
 
-## Launching Slides 2024 
-Check [the presentation of the activities](https://docs.google.com/presentation/d/1us-JbiBUbHa1EUcBAKsLsyoi6ctkBV-GWhT3xuZC41M/edit?usp=sharing) we are launching this year.
-
-## Activities Planning
-The [planning of the activities of the organization](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) is updated as regularly as possible.
-
-## AI Projects <span style="color:gray;">COMING SOON</span>
-Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
-
-## Keep Updated with Our Activities
-We are committed to fostering an environment rich in diverse perspectives, creativity, empowerment, and active engagement in decision-making. To ensure you never miss out on our activities and opportunities for involvement, please fill out this form.
-
-👉🏾 [SIGN UP TO OUR NEWSLETTER](https://forms.gle/TpZ2VFseFHAemMGv6) 
-
-It's a way to stay automatically updated and to share your valuable insights with us. Whether you want to participate actively or simply leave a comment, we eagerly anticipate hearing from you.
-
-## Drive
-This drive contains documents/reports and ressources available about our activities.
-
-[Our Drive for ressources](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
-
 ## Members
 
 Our members work in strategic industries and companies/labs.
@@ -48,6 +27,30 @@ Our members work in strategic industries and companies/labs.
    
   <!-- Add more logos here -->
 </div>
+
+
+## Launching Slides 2024 
+Check [the presentation of the activities](https://docs.google.com/presentation/d/1us-JbiBUbHa1EUcBAKsLsyoi6ctkBV-GWhT3xuZC41M/edit?usp=sharing) we are launching this year.
+
+## Activities Planning
+The [planning of the activities of the organization](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) is updated as regularly as possible.
+
+## AI Projects <span style="color:gray;">COMING SOON</span>
+Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
+
+## Keep Updated with Our Activities
+We are committed to fostering an environment rich in diverse perspectives, creativity, empowerment, and active engagement in decision-making. To ensure you never miss out on our activities and opportunities for involvement, please fill out this form.
+
+👉🏾 [SIGN UP TO OUR NEWSLETTER](https://forms.gle/TpZ2VFseFHAemMGv6) 
+
+It's a way to stay automatically updated and to share your valuable insights with us. Whether you want to participate actively or simply leave a comment, we eagerly anticipate hearing from you.
+
+## Drive
+This drive contains documents/reports and ressources available about our activities.
+
+[Our Drive for ressources](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
+
+
 
 
 ## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)

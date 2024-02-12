@@ -12,12 +12,13 @@ The slides presenting the activities we are launching this year and presented on
 ## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 
 The planning of the activities of the organization. It is updated as regularly as possible.
 
-## [How to join](https://www.youtube.com/watch?v=2DmFFS0dqQc&ab_channel=JohnSpencer)
-We prioritize the engagement and collaboration of our members to ensure a thoughtful and interactive experience. You'll receive a challenge and upon completion, you'll be warmly invited to become part of our community.
 
-## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
+## [Keep Updated with Our Activities](https://forms.gle/TpZ2VFseFHAemMGv6)
+We are committed to fostering an environment rich in diverse perspectives, creativity, empowerment, and active engagement in decision-making. To ensure you never miss out on our activities and opportunities for involvement, please fill out this form.
 
-The anonymous box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice.
+👉🏾 [SIGN UP TO OUR NEWSLETTER](https://forms.gle/TpZ2VFseFHAemMGv6) 
+
+It's a way to stay automatically updated and to share your valuable insights with us. Whether you want to participate actively or simply leave a comment, we eagerly anticipate hearing from you.
 
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
 This drive contains documents/reports and ressources available about our activities.
@@ -54,3 +55,8 @@ Our members work in strategic industries and companies/labs.
    
   <!-- Add more logos here -->
 </div>
+
+
+## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
+
+The anonymous box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice.

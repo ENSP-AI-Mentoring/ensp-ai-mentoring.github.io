@@ -12,6 +12,8 @@ The slides presenting the activities we are launching this year and presented on
 ## [Activities Planning](https://docs.google.com/spreadsheets/d/1nOUiLbD_ORuCdC2gXL68n5q23UR9-VPjMqjYB6QLn4E/edit?usp=sharing) 
 The planning of the activities of the organization. It is updated as regularly as possible.
 
+## AI Projects <span style="color:gray;">COMING SOON</span>
+Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
 
 ## [Keep Updated with Our Activities](https://forms.gle/TpZ2VFseFHAemMGv6)
 We are committed to fostering an environment rich in diverse perspectives, creativity, empowerment, and active engagement in decision-making. To ensure you never miss out on our activities and opportunities for involvement, please fill out this form.
@@ -22,16 +24,6 @@ It's a way to stay automatically updated and to share your valuable insights wit
 
 ## [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing)
 This drive contains documents/reports and ressources available about our activities.
-
-## AI Projects <span style="color:gray;">COMING SOON</span>
-Presentation/code of ongoing/done projects. Check out the [github repo](https://github.com/ENSP-AI-Mentoring).
-
-
-## Related Initiatives
-* [Pipos in AI](https://www.piposinai.com/)
-* Machine Learning Project Competition
-    > [Facebook post](https://www.facebook.com/blackinai/posts/congratulations-to-james-assiene-for-organizing-the-second-edition-of-the-machin/1043947346361607/)
-* [Indaba X Cameroon](https://indabaxcameroon.github.io/)
 
 
 ## Members
@@ -60,3 +52,11 @@ Our members work in strategic industries and companies/labs.
 ## [Talk to us](https://forms.gle/Gu4EgWbp8RtXCPgf8)
 
 The anonymous box fosters diverse perspectives, creativity, empowerment, and active engagement in decision-making. You can also just make a comment. We look forward to hear your voice.
+
+
+## Related Initiatives
+* [Pipos in AI](https://www.piposinai.com/)
+* Machine Learning Project Competition
+    > [Facebook post](https://www.facebook.com/blackinai/posts/congratulations-to-james-assiene-for-organizing-the-second-edition-of-the-machin/1043947346361607/)
+* [Indaba X Cameroon](https://indabaxcameroon.github.io/)
+

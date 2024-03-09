@@ -2,7 +2,7 @@
 layout: default
 ---
 
-We are an collective of engineers and students from [National Advanced School of Engineering of Yaoundé](https://polytechnique.cm/) who are committed to promoting data science, big data and artificial intelligence to solve meaningful problems.
+We are a collective of engineers and students from [National Advanced School of Engineering of Yaoundé](https://polytechnique.cm/) who are committed to promoting data science, big data and artificial intelligence to solve meaningful problems.
 
 
 ## Members

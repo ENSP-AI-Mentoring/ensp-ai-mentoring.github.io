@@ -45,11 +45,13 @@ For code of ongoing/done projects, check out the [Github repo](https://github.co
 
 ## Keep Updated with Our Activities
 
+Contact us at [enspy.ai@gmail.com](mailto:enspy.ai@gmail.com) whether you want to participate or to share your valuable insights with us, we eagerly anticipate hearing from you.
+
 We are committed to fostering an environment rich in diverse perspectives, creativity, empowerment, and active engagement in decision-making. To ensure you never miss out on our activities and opportunities for involvement, please fill out this form.
 
 **👉🏾 [SIGN UP TO OUR NEWSLETTER](https://forms.gle/TpZ2VFseFHAemMGv6)**
 
-It's a way to stay automatically updated and to share your valuable insights with us. Whether you want to participate actively or simply leave a comment, we eagerly anticipate hearing from you.
+It's a way to stay automatically updated.
 
 ## Related Initiatives
 * [Pipos in AI](https://www.piposinai.com/)

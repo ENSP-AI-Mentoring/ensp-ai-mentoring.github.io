@@ -49,7 +49,7 @@ Contact us at [enspy.ai@gmail.com](mailto:enspy.ai@gmail.com) whether you want t
 
 We are committed to fostering an environment rich in diverse perspectives, creativity, empowerment, and active engagement in decision-making. To ensure you never miss out on our activities and opportunities for involvement, please fill out this form.
 
-**👉🏾 [SIGN UP TO OUR NEWSLETTER](https://forms.gle/TpZ2VFseFHAemMGv6)**
+**👉🏾 [STAY UPDATED WITH OUR EVENTS](https://groups.google.com/u/0/g/enspy-ai-public?pli=1)**
 
 It's a way to stay automatically updated.
 
